@@ -1,0 +1,51 @@
+
+        How to UnPack hACKSTOP 1.18 Build 70
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.)     Requirements:
+
+	Super Tracer 1.97		By LiuTaoTao
+	Get it at			http://www.nease.net/~ayliutt
+
+
+
+
+2.)     Tested Versions:
+
+        hACKSTOP 1.18b70
+	Program Date: 14/01/98
+
+
+
+3.)     How to Unpack
+
+	HSEPS ARJ.EXE           ( Arj.exe is packed with hACKSTOP 1.18b70 )
+
+	Write the Magic Number   	Ex: 1234
+
+	TR ARJ.EXE		
+	EXE1				<ENTER>
+	RELOAD				<ENTER>
+	G 1234				<ENTER>
+	F8				<ENTER>
+	WEXE1				<ENTER>
+	EXE2				<ENTER>
+	RELOAD				<ENTER>
+	G 1234				<ENTER>
+	F8				<ENTER>
+	WEXE2				<ENTER>
+	Q				<ENTER>
+
+
+	At the DOS Prompt type MKEXE and test MEM.EXE, it's the unpacked 
+	Arj.exe archive.
+
+
+
+
+4.)  Author
+
+	-= THE AVENGER =-
+	Buenos Aires, Argentina. eMAIL: george@inea.com.ar
+
+/* ENJOY */
