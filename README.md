@@ -1,2 +1,5 @@
-# hackstop-entry-point-searcher-the-avenger
-Unpack Hackstop.
+# Unpack hackstop entry point searcher.
+
+#### Written in 1998 January.
+
+[Original package](https://defacto2.net/f/a41896f)
